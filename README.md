@@ -9,3 +9,7 @@
 ```bash
     MYSQL_USER=nieuwgebruiker MYSQL_PASSWORD=nieuwwachtwoord docker-compose up -d
 ```
+
+# Cheatsheet
+- https://devhints.io/dockerfile
+- https://devhints.io/docker-compose
