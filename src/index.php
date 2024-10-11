@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    Welkom
+    Welkom allemaal
 </body>
 </html>
